@@ -21,7 +21,7 @@ export default function MobileNav() {
   }
 
   return (
-    <div style={{
+    <div className='mobile_nav' style={{
       position: 'fixed',
       left: 0,
       top: 0,
